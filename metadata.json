@@ -1,0 +1,6 @@
+{
+  "name": "TPQ Al-Istiqamah - Pembelajaran Quran & Tajwid Interaktif AI",
+  "description": "Platform TPQ AR-ROHMAH bernuansa hijau sage dengan kurikulum 4 pilar buku, materi tajwid praktis, bank soal terintegrasi Google Docs & Sheets, notifikasi presensi WhatsApp real-time ke orang tua, dan e-ijazah santri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
